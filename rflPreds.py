@@ -4,10 +4,10 @@ from collections import defaultdict
 from unidecode import unidecode
 from texttable import Texttable
 
-username = 'TheLogicult'
-password = 'login123'
-clientid = '4aPG_jiHKVfhHg'
-clientSecret =  'tUVV5R4MlAbwHlPQ4rDRCX1VQoA'
+username = 
+password =
+clientid =
+clientSecret =
 
 reddit = praw.Reddit(user_agent="RFL prediction extraction by u/TheLogicult", 
         client_id=clientid, client_secret=clientSecret,
