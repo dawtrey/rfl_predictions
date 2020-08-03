@@ -1,5 +1,4 @@
-s
-sition | Cyclist              | Points |
+| Position | Cyclist              | Points |
 +----------+----------------------+--------+
 | 1        | woutvanaert          | 1960   |
 +----------+----------------------+--------+
